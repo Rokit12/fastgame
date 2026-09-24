@@ -19,4 +19,3 @@ Open http://localhost:5173. For two devices on the same Wi‑Fi, expose the app 
 
 ## Deploy
 Build with `npm run build`, then run `npm start`. Set `PORT` if your host provides one. The server uses Socket.IO for live room/game state.
-# fastgame
